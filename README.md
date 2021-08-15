@@ -1,2 +1,2 @@
-# K-Means-from-Algorithm-Scratch
+# K-Means-Means-from-Scratch
 In Progess
