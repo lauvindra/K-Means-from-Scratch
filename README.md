@@ -9,3 +9,17 @@ K-means clustering is a type of unsupervised learning, which is used when you ha
 
 # 3. K-Means Algorithm
 
+<img src="Images/1.PNG" >
+
+The figure above shows the main points we need to take note when applying K-Means Algorithm
+* These are the procedure for applying K-Means
+*  1. Choose the number of cluster K.
+*  2. Calculate the distance between each data point and each centroid
+*  3. Assign all the points to the closest cluster centroid.
+*  4. Calculate the distance between each data point and each centroid
+*  5. Update the centroids to the calculated means of their respective clusters
+*  6. Repeat steps 2 until 5 until reached stopping criteria of K-Means
+      - Centroids of newly formed cluster do not change  
+      - Points remain in the same cluster
+      - Maximum number of iteration reached
+
