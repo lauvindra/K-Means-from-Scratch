@@ -30,3 +30,29 @@ The figure above shows the main points we need to take note when applying K-Mean
 Formula for the distance calculation using square error function in step 2.
 
 # 5. Image Segmentation
+
+Image segmentation using K-Mean Clustering method
+
+K = Number of clusters
+
+<img src="Images/Original.png" width="240" height="240">
+
+Original Image
+
+<img src="Images/k2.png" width="240" height="240">
+
+K = 2
+
+<img src="Images/k4.png" width="240" height="240">
+
+K = 4
+
+<img src="Images/k7.png" width="240" height="240">
+
+K = 7
+
+As the number of clusters (K) increases the image contains less unwanted region or noise.
+
+# 6. Reference
+* https://www.researchgate.net/publication/283185016_Image_Segmentation_Using_K_-means_Clustering_Algorithm_and_Subtractive_Clustering_Algorithm
+* https://www.kdnuggets.com/2019/08/introduction-image-segmentation-k-means-clustering.html
