@@ -23,3 +23,10 @@ The figure above shows the main points we need to take note when applying K-Mean
       - Points remain in the same cluster
       - Maximum number of iteration reached
 
+# 4. Mathematical Formula
+
+<img src="Images/Formula.PNG" width="520" height="280">
+
+Formula for the distance calculation using square error function in step 2.
+
+# 5. Image Segmentation
